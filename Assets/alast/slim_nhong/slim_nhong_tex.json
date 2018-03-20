@@ -1,0 +1,36 @@
+{
+  "imagePath": "slim_nhong_tex.png",
+  "width": 512,
+  "SubTexture": [
+    {
+      "width": 38,
+      "y": 1,
+      "height": 38,
+      "name": "cb",
+      "x": 435
+    },
+    {
+      "width": 30,
+      "y": 41,
+      "height": 30,
+      "name": "3_0004_tron",
+      "x": 435
+    },
+    {
+      "width": 432,
+      "y": 1,
+      "height": 300,
+      "name": "main",
+      "x": 1
+    },
+    {
+      "width": 20,
+      "y": 1,
+      "height": 49,
+      "name": "mat",
+      "x": 475
+    }
+  ],
+  "height": 512,
+  "name": "slim"
+}

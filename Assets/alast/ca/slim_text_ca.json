@@ -1,0 +1,61 @@
+{
+  "imagePath": "slim_tex2.png",
+  "width": 512,
+  "SubTexture": [
+    {
+      "width": 80,
+      "y": 303,
+      "height": 69,
+      "name": "1_0006_duoi",
+      "x": 1
+    },
+    {
+      "width": 38,
+      "y": 167,
+      "height": 38,
+      "name": "cb",
+      "x": 435
+    },
+    {
+      "width": 76,
+      "y": 1,
+      "height": 80,
+      "name": "1_0005_vay-2",
+      "x": 435
+    },
+    {
+      "width": 73,
+      "y": 83,
+      "height": 82,
+      "name": "1_0004_vay1",
+      "x": 435
+    },
+    {
+      "width": 30,
+      "y": 167,
+      "height": 30,
+      "name": "3_0004_tron",
+      "x": 475
+    },
+    {
+      "width": 432,
+      "y": 1,
+      "height": 300,
+      "name": "main",
+      "x": 1
+    },
+    {
+      "y": 199,
+      "frameX": -3,
+      "frameHeight": 49,
+      "frameY": 0,
+      "width": 15,
+      "frameWidth": 20,
+      "height": 48,
+      "name": "mat",
+      "x": 475
+    }
+  ],
+  "height": 512,
+  "name": "slim"
+}

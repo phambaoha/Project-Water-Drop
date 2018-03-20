@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Water Drop.Plugins", "Water Drop.Plugins.csproj", "{565515DB-4140-94BE-CF58-5E758B937C39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Water Drop", "Water Drop.csproj", "{17384985-D853-80F3-DE9F-52BE3A6CB998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Water Drop.Editor.Plugins", "Water Drop.Editor.Plugins.csproj", "{3292A16E-723C-01F4-4817-ECC90AD1F15C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Water Drop.Editor", "Water Drop.Editor.csproj", "{AC883638-1760-6C7F-7FFF-8B7813AC2BEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{565515DB-4140-94BE-CF58-5E758B937C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565515DB-4140-94BE-CF58-5E758B937C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565515DB-4140-94BE-CF58-5E758B937C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565515DB-4140-94BE-CF58-5E758B937C39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17384985-D853-80F3-DE9F-52BE3A6CB998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17384985-D853-80F3-DE9F-52BE3A6CB998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17384985-D853-80F3-DE9F-52BE3A6CB998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17384985-D853-80F3-DE9F-52BE3A6CB998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3292A16E-723C-01F4-4817-ECC90AD1F15C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3292A16E-723C-01F4-4817-ECC90AD1F15C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3292A16E-723C-01F4-4817-ECC90AD1F15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3292A16E-723C-01F4-4817-ECC90AD1F15C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC883638-1760-6C7F-7FFF-8B7813AC2BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC883638-1760-6C7F-7FFF-8B7813AC2BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC883638-1760-6C7F-7FFF-8B7813AC2BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC883638-1760-6C7F-7FFF-8B7813AC2BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
